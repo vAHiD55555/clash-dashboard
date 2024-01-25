@@ -65,7 +65,7 @@
         "eventemitter3": "^5.0.1",
         "immer": "^10.0.2",
         "jotai": "^2.2.1",
-        "jotai-immer": "^0.2.0",
+        "jotai-immer": "^0.3.0",
         "lodash-es": "^4.17.21",
         "neverthrow": "^6.0.0",
         "react": "^18.2.0",
