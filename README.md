@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/vAHiD55555/clash-dashboard.svg)](https://jitpack.io/#vAHiD55555/clash-dashboard)
+
 <h1 align="center">
     <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
     <br>
